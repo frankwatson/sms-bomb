@@ -2,6 +2,7 @@
 spam sms messages to a phone
 
 #Usage
+Edit the file using an editor besides windows notepad (https://notepad-plus-plus.org or https://atom.io/)
 Please refer to the spreadsheet (http://bit.ly/2kj7CwW) for the send address.
 
 #Things you MUST change (in the quotations after the listed items):
